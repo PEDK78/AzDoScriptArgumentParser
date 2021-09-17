@@ -23,19 +23,19 @@
       },
     "files": [
         {
-            "path": "src/ScriptArgumentParser",
+            "path": "ScriptArgumentParser",
             "packagePath": "ScriptArgumentParser"
         },
         {
-            "path": "src/node_modules",
+            "path": "node_modules",
             "packagePath": "ScriptArgumentParser/node_modules"
         },
         {
-            "path": "src/OptionalVariableParser",
+            "path": "OptionalVariableParser",
             "packagePath": "OptionalVariableParser"
         },
         {
-            "path": "src/node_modules",
+            "path": "node_modules",
             "packagePath": "OptionalVariableParser/node_modules"
         }
     ],

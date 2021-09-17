@@ -29,7 +29,7 @@ steps:
     version: '>=v0.7.x'
 - task: PackageAzureDevOpsExtension@3
   inputs:
-    rootFolder: './'
+    rootFolder: './src/'
     publisherId: 'pierredeconynck'
     extensionId: 'ScriptArgumentParserTst'
     extensionVersion: '$(GitVersion.Major).$(GitVersion.Minor).$(GitVersion.PreReleaseNumber)'
